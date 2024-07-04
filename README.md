@@ -22,7 +22,8 @@
 ## ETC
 - 삼성전자 SW 역량 테스트 B형  (2023.02 취득)
 - TOCIT 수준 3  (2023.10 취득)
-- '이미지 벡터화를 이용한 유사 케이크 검색 서비스 제공 장치 및 그의 방법' 특허 출원  (2023.10.25, KR 10-2023-0143498) 
+- '이미지 벡터화를 이용한 유사 케이크 검색 서비스 제공 장치 및 그의 방법' 특허 출원  (2023.10.25, KR 10-2023-0143498)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=clscls253)](https://solved.ac/clscls253/)
 
 
