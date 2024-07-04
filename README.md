@@ -5,7 +5,8 @@
 - 개발자이기 전에 사용자로서, 일상생활의 불편함을 찾아내고, 이를 개선하는 데 집중하고 있습니다.
 
 ## Project 📱
-#### Kezzle / 백엔드 ・ 팀장
+###Kezzle / 백엔드 ・ 팀장
+<a href="https://apps.apple.com/kr/app/kezzle-%EC%BC%80%EC%A6%90-%EB%82%B4-%EC%A3%BC%EB%B3%80%EC%97%90-%EC%9E%88%EB%8A%94-%ED%8A%B9%EB%B3%84%ED%95%9C-%EC%BC%80%EC%9D%B4%ED%81%AC/id6461725196"> 앱 스토어 </a>
 
 ## Education 🎓
 우송대학교 IT융합학부 컴퓨터정보·보안전공 (2020.03 ~ 2025.08 *졸업 예정)
