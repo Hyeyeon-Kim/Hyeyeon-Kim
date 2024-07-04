@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFACD&height=150&section=header" />
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=clscls253)](https://solved.ac/clscls253/)
 
