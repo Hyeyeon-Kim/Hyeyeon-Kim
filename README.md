@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=808000&height=130&section=header&text=Hyeyeon%20Kim's%20Profile&fontSize=30&fontColor=ffffff&fontAlign=50&fontAlignY=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=130&section=header&text=Hyeyeon%20Kim's%20Profile&fontSize=30&fontColor=ffffff&fontAlign=50&fontAlignY=30" />
 
 
 - 개발자이기 전에 사용자로서, 일상생활의 불편함을 잘 찾아내고, 이를 개선하는 데 집중하고 있습니다.
