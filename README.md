@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFACD&height=150&section=header&text=Hyeyeon%20Kim's%20Profile&fontSize=10" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFACD&height=200&section=header&text=Hyeyeon%20Kim's%20Profile&fontSize=50" />
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=clscls253)](https://solved.ac/clscls253/)
 
