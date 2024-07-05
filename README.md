@@ -7,7 +7,7 @@
 ## Project 📱
 ### Kezzle / 백엔드 ・ 팀장
 <a href="https://apps.apple.com/kr/app/kezzle-%EC%BC%80%EC%A6%90-%EB%82%B4-%EC%A3%BC%EB%B3%80%EC%97%90-%EC%9E%88%EB%8A%94-%ED%8A%B9%EB%B3%84%ED%95%9C-%EC%BC%80%EC%9D%B4%ED%81%AC/id6461725196"> 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSiAMibko9SXNUqMbJFA96gexLiLtNhXf8cA&s" alt="앱 스토어 아이콘" style="width: 50px;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSiAMibko9SXNUqMbJFA96gexLiLtNhXf8cA&s" alt="앱 스토어 아이콘" style="width: 30px;">
 </a>
 <a href="https://play.google.com/store/apps/details?id=com.klh.kezzle&hl=ko-KR"> 플레이 스토어 </a>
 <br></br>
