@@ -17,7 +17,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKWz1ebOb7J-VzJpOv8GuC3WizjhhSfGZ8Pg&s" alt="플레이 스토어 아이콘" style="width: 25px; vertical-align: middle;">
   </a>
 </div>
-<br></br>
+
 - FE 1명, BE 1명, AI 1명 (총 3명)
 
 
