@@ -11,7 +11,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.klh.kezzle&hl=ko-KR" style="text-decoration: none;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKWz1ebOb7J-VzJpOv8GuC3WizjhhSfGZ8Pg&s" alt="플레이 스토어 아이콘" style="width: 25px; vertical-align: middle, box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKWz1ebOb7J-VzJpOv8GuC3WizjhhSfGZ8Pg&s" alt="플레이 스토어 아이콘" style="width: 25px; vertical-align: middle; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
   </a>
   </div>
   
