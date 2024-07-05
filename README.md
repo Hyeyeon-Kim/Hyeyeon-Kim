@@ -5,14 +5,16 @@
 - 개발자이기 전에 사용자로서, 일상생활의 불편함을 찾아내고, 이를 개선하는 데 집중하고 있습니다.
 
 ## Project 📱
-### Kezzle / 백엔드 ・ 팀장
-다양한 주문 제작 케이크 디자인들 속에서 사용자 맞춤 큐레이션을 제공하고, 해당 디자인을 제공하는 매장과 매칭을 도와주는 플랫폼 서비스
+
+<div style="display: flex; align-items: center;">
+ <h3 style="margin-right: 10px;">Kezzle / 백엔드 ・ 팀장</h3>
 <a href="https://apps.apple.com/kr/app/kezzle-%EC%BC%80%EC%A6%90-%EB%82%B4-%EC%A3%BC%EB%B3%80%EC%97%90-%EC%9E%88%EB%8A%94-%ED%8A%B9%EB%B3%84%ED%95%9C-%EC%BC%80%EC%9D%B4%ED%81%AC/id6461725196"> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSiAMibko9SXNUqMbJFA96gexLiLtNhXf8cA&s" alt="앱 스토어 아이콘" style="width: 30px;">
 </a>
 <a href="https://play.google.com/store/apps/details?id=com.klh.kezzle&hl=ko-KR"> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKWz1ebOb7J-VzJpOv8GuC3WizjhhSfGZ8Pg&s" alt="플레이 스토어 아이콘" style="width: 30px;">
 </a>
+</div>
 <br></br>
 
 
