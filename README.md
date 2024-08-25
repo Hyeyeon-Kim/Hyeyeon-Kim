@@ -11,6 +11,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/300/300218.png" alt="플레이 스토어 아이콘" style="width: 25px; vertical-align: middle;">
   </a>
   </div>
+  
 - FE 1명, BE 1명, AI 1명 (총 3명)
 - 다양한 주문 제작 케이크 디자인들 속에서 사용자 맞춤 큐레이션을 제공하고, 해당 디자인을 제공하는 매장과 매칭을 도와주는 플랫폼 서비스
 - 3,0001명의 유저가 있는 서비스 운영 관리 담당
