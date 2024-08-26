@@ -1,4 +1,4 @@
-# Backend developer, Hyeyeon Kim
+# Backend developer,  Hyeyeon Kim
 
 ### Project 📱
 #### Kezzle / 백엔드 ・ 팀장 (2023.08.23 ~)
